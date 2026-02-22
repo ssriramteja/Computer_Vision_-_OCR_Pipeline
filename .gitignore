@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw_images/*.pdf
+data/raw_images/*.png
+results/
+*_extracted.json
