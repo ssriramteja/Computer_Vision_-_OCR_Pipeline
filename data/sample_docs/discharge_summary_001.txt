@@ -1,0 +1,63 @@
+=====================================
+        DISCHARGE SUMMARY
+=====================================
+Patient:   David Lee
+DOB:       07/21/1972
+MRN:       A123-45-6789
+Physician: Dr. Sarah Williams
+Hospital:  Atrium Health Charlotte
+
+Admit Date:    01/15/2024
+Discharge:     01/18/2024
+LOS:           3 days
+
+-------------------------------------
+PRIMARY DIAGNOSIS
+-------------------------------------
+Acute exacerbation of COPD with secondary
+community-acquired pneumonia.
+Patient presented with worsening dyspnea,
+productive cough, and O2 sat 88% on room air.
+
+-------------------------------------
+SECONDARY DIAGNOSES
+-------------------------------------
+1. Hypertension (controlled)
+2. Type 2 Diabetes Mellitus
+3. Hyperlipidemia
+
+-------------------------------------
+HOSPITAL COURSE
+-------------------------------------
+Patient admitted via ED on 01/15/2024.
+Started on IV Azithromycin and Ceftriaxone.
+Nebulizer therapy and oxygen supplementation
+initiated. O2 weaned over 48 hours.
+Stable on room air by Day 3.
+Labs: WBC 14.2, CRP elevated, CXR right lower
+lobe consolidation confirmed.
+
+-------------------------------------
+DISCHARGE MEDICATIONS
+-------------------------------------
+1. Azithromycin  250mg  orally once daily  x 3 days
+2. Prednisone    40mg   orally once daily  x 5 days
+3. Albuterol inhaler 2 puffs every 4-6 hours PRN
+4. Metformin     1000mg twice daily (continue)
+5. Lisinopril    10mg   once daily  (continue)
+
+-------------------------------------
+FOLLOW-UP INSTRUCTIONS
+-------------------------------------
+Follow up with PCP Dr. Sarah Williams within
+7 days on 02/01/2024.
+Pulmonology referral placed.
+Return to ED if dyspnea worsens or
+O2 sat drops below 92%.
+
+-------------------------------------
+DISCHARGE CONDITION
+-------------------------------------
+Stable. Afebrile. O2 sat 96% on room air.
+Ambulating independently.
+=====================================

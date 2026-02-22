@@ -1,0 +1,30 @@
+=====================================
+       MEDICAL PRESCRIPTION
+=====================================
+Hospital: UNC Medical Center
+Doctor:   Dr. Emily Johnson, MD
+License:  NC-MED-12345
+Date:     02/20/2024
+
+-------------------------------------
+PATIENT INFORMATION
+-------------------------------------
+Patient Name: John Smith
+DOB:          03/12/1959
+MRN:          1234567
+Allergies:    Penicillin, Sulfa
+
+-------------------------------------
+Rx — MEDICATIONS PRESCRIBED
+-------------------------------------
+1. Metformin       500mg   Twice daily    90 days
+2. Lisinopril      10mg    Once daily     90 days
+3. Atorvastatin    40mg    Once nightly   90 days
+4. Aspirin         81mg    Once daily     Ongoing
+5. Metoprolol      25mg    Twice daily    90 days
+
+-------------------------------------
+Doctor Signature: Dr. Emily Johnson
+Refills: 2    DEA#: AB1234567
+Date Signed: 02/20/2024
+=====================================

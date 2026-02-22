@@ -1,0 +1,48 @@
+=====================================
+     CARDIAC ENZYME REPORT
+=====================================
+Patient:   James Wilson
+DOB:       05/14/1958
+MRN:       5551234
+Physician: Dr. Michael Torres
+Hospital:  WakeMed Heart Center
+Raleigh, NC 27610
+
+Collected:  03/12/2024 02:30 AM
+Reported:   03/12/2024 04:15 AM
+Accession:  CARD-20240312-007
+
+-------------------------------------
+CARDIAC BIOMARKERS
+-------------------------------------
+Test              Result  Units    Ref Range    Flag
+-------------------------------------
+Troponin I        2.4     ng/mL    <0.04        H !!
+Troponin T        1.8     ng/mL    <0.01        H !!
+CK-MB             48      ng/mL    <5.0         H !!
+BNP               1850    pg/mL    <100         H !!
+Myoglobin         320     ng/mL    <90          H !!
+
+-------------------------------------
+COAGULATION STUDIES
+-------------------------------------
+Test              Result  Units    Ref Range    Flag
+-------------------------------------
+PT                13.2    seconds  11.0-13.5
+INR               1.1     ratio    0.8-1.2
+PTT               28.4    seconds  25-35
+D-Dimer           0.8     mg/L     <0.5         H
+
+-------------------------------------
+ARTERIAL BLOOD GAS
+-------------------------------------
+pH                7.38    units    7.35-7.45
+pO2               88      mmHg     80-100
+pCO2              42      mmHg     35-45
+O2 Sat            94      %        95-100       L
+
+-------------------------------------
+!! CRITICAL VALUES: Troponin I 2.4 ng/mL
+!! Cardiology notified at 04:17 AM
+!! Patient in STEMI protocol
+=====================================

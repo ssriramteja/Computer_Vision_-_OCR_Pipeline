@@ -1,0 +1,33 @@
+=====================================
+    PEDIATRIC PRESCRIPTION
+=====================================
+Hospital:  Duke Children's Hospital
+Doctor:    Dr. Amanda Parker, MD, FAAP
+License:   NC-PED-98765
+Date:      02/15/2024
+
+-------------------------------------
+PATIENT INFORMATION
+-------------------------------------
+Patient Name:  Emma Rodriguez
+DOB:           06/22/2018    (Age: 5 years)
+MRN:           PAT-7890123
+Weight:        20 kg
+Allergies:     None known
+
+-------------------------------------
+Rx — MEDICATIONS PRESCRIBED
+-------------------------------------
+1. Amoxicillin   250mg/5ml  10ml twice daily  10 days
+2. Ibuprofen     100mg/5ml  7.5ml every 6 hrs PRN fever
+3. Cetirizine    5mg        Once daily         30 days
+4. Saline Nasal  2 sprays   Each nostril BID   14 days
+
+-------------------------------------
+DIAGNOSIS: Acute Otitis Media (bilateral)
+           Allergic Rhinitis
+
+Doctor Signature: Dr. Amanda Parker
+Date:     02/15/2024
+Refills:  0 (Amoxicillin), 2 (Cetirizine)
+=====================================
