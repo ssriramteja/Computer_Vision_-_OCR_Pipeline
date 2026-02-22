@@ -2,7 +2,10 @@
 
 A professional-grade pipeline for analyzing, OCR-ing, and extracting structured clinical data from medical documents (Prescriptions, Lab Reports, Discharge Summaries).
 
-##  Pipeline Architecture
+## 🚀 Live Demo
+Access the live application here: **[Medical OCR Pipeline on Streamlit Cloud](https://computervision-ocrpipeline-appims9vpfwguxbwnef3jnt.streamlit.app/)**
+
+## 📊 Pipeline Architecture
 
 ```mermaid
 graph TD
